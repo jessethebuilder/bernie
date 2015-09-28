@@ -1,0 +1,63 @@
+//--- Vendors ---
+@import 'bootstrap';
+@import 'font-awesome';
+
+//--- Variables ---
+$dark_color: black;
+$light_color: white;
+$link_color: blue;
+$link_hover_color: gray; 
+
+//--- Styles ---
+a:link{
+  color: $link_color;
+  text-decoration: none;
+}
+a:visitied{
+  color: $link_color;
+  text-decoration: none;
+}
+a:hover{
+  color: $link_hover_color;
+  text-decoration: none;
+}
+a:active{
+  color: $link_color;
+  text-decoration: none;
+}
+
+
+.top_banner{
+  margin-bottom: 20px; 
+  
+  img{
+    width: 100%;
+  }
+}
+
+.mail_chimp_form{
+  padding: 10px;
+  border: 1px solid $dark_color;
+}
+
+#home{
+  background-color: $light_color;
+}
+
+body{
+  background-color: $dark_color;
+}
+
+.social_networking_list{
+  padding: 0px;
+  list-style: none;
+  
+  a{
+    font-size: 56px;
+  }
+}
+
+.footer{
+  margin-top: 20px;
+  min-height: 250px;
+}
