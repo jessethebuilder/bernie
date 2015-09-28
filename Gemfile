@@ -69,8 +69,8 @@ gem "font-awesome-rails"
 # gem 'twitter_express', :git => 'https://github.com/jessethebuilder/TwitterExpress'
 # gem 'twitter_express', :path => 'C:\Users\Bucky\Desktop\jesseweb\twitterexpress\twitterexpress'
 
-gem 'farm_shed', '0.0.2', :path => 'C:\Users\Bucky\Desktop\jesseweb\farm_shed'
-# gem 'farm_shed', '0.0.2', :git => 'https://github.com/jessethebuilder/farm_shed'
+# gem 'farm_shed', '0.0.2', :path => 'C:\Users\Bucky\Desktop\jesseweb\farm_shed'
+gem 'farm_shed', '0.0.2', :git => 'https://github.com/jessethebuilder/farm_shed'
 
 # gem 'sdad', '0.0.1', :path => 'c:\Users\Bucky\Desktop\jesseweb\sdad'
 # gem 'sdad', '0.0.1', :git => 'https://github.com/jessethebuilder/sdad'

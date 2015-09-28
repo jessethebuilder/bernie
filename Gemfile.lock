@@ -1,5 +1,6 @@
-PATH
-  remote: C:/Users/Bucky/Desktop/jesseweb/farm_shed
+GIT
+  remote: https://github.com/jessethebuilder/farm_shed
+  revision: f7361bfee84f3bf9315340697d97cc8ef38b8a44
   specs:
     farm_shed (0.0.2)
       geocoder (~> 1.2.9)
